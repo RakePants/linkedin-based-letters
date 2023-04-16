@@ -1,5 +1,5 @@
 # linkedin-based-letters
-Creating proposal letter's based on LinkedIn profiles with ChatGPT
+Creating proposal letters based on LinkedIn profiles with ChatGPT
 
 ## Scraping
 Scraped 5 LinkedIn profiles using Nubela's **proxyurl API**.

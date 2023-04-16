@@ -2,9 +2,9 @@
 Creating proposal letters based on LinkedIn profiles with ChatGPT
 
 ## Scraping
-Scraped 5 LinkedIn profiles using Nubela's **proxyurl API**.
-Included only basic information and a list of email addresses, brought by the API from external sources.
-Saved backup copies on Google Drive in *.json* format.
+Scraped 5 LinkedIn profiles using Nubela's **proxyurl API**.  
+Included only basic information and a list of email addresses, brought by the API from external sources.  
+Saved backup copies on Google Drive in *.json* format.  
 
 ## Information
 Put together a universal prompt that includes essential data from the profile.  

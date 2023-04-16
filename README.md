@@ -21,3 +21,4 @@ It includes person's:
 ## Generation
 Using OpenAI's API, generated letters with **ChatGPT-3.5's assistant mode**.  
 Prompt included the aforementioned information and a task to create a proposal letter.  
+Results are available in the Jupyter Notebook.

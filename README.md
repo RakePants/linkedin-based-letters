@@ -19,5 +19,5 @@ It includes person's:
 - education in the following format: *[Degree_name from school1, described as description; ...]*  
 
 ## Generation
-Using OpenAI's API, generated letters with ChatGPT-3.5's assistant mode.  
+Using OpenAI's API, generated letters with **ChatGPT-3.5's assistant mode**.  
 Prompt included the aforementioned information and a task to create a proposal letter.  
